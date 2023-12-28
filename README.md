@@ -8,6 +8,7 @@ Waiting room game for students at the Academy of Music while they are waiting fo
 <li>Identify a note played on the piano</li>
 <li>Identify an interval</li>
 <li>Identify a chord</li>
+<li>Identify an instrument</li>
 </p>
 
 <p>Made for IMCS DECA Project 2023 for the Academy of Music.</p>
